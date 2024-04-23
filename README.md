@@ -97,5 +97,5 @@ Here is the link to the code base [ADVANCED BACKEND AUTHENTICATION APP](https://
 
     
  --- 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeshina3002&show_icons=true&include_all_commits=true&hide_border=true" alt="Akaehomen Kingsley's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsley-akaehomen&langs_count=8&layout=compact&hide_border=true" alt="Akaehomen Kings's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kingsley-akaehomen&show_icons=true&include_all_commits=true&hide_border=true" alt="Akaehomen Kingsley's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingsley-akaehomen&langs_count=8&layout=compact&hide_border=true" alt="Akaehomen Kingsley's GitHub stats" /> |
 | ------------- | ------------- |
