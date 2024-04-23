@@ -64,7 +64,7 @@ For all the projects listed here, I only worked on the server side of the applic
   Here is the link to the code base of the app **[CITRONE](https://github.com/kingsley-akaehomen/CLI-CV-APP)**  
   And the link to the hosted platform [Citrone](url)
 
-  - 🏫 Citrone : Citrone is a Learning Management System where learning activities can be accessed through the use of technology. Learners can enroll for various tech stacks like frontend, backend, etc. The project involve all stakeholders throughout the software development life cycle (SDLC) and the project met the minimum viable product(MVP) as specified by the product team.
+- 🏫 Citrone : Citrone is a Learning Management System where learning activities can be accessed through the use of technology. Learners can enroll for various tech stacks like frontend, backend, etc. The project involve all stakeholders throughout the software development life cycle (SDLC) and the project met the minimum viable product(MVP) as specified by the product team.
 
   Here is the link to the code base of the app **[CITRONE](https://github.com/ddoyediran/stutern_citrone_app)**  
   And the link to the hosted platform [Citrone](url)
