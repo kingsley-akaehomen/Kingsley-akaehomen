@@ -14,8 +14,8 @@ I'm a Software Engineer who is currently open to work as a Backend developer, ei
 - 🌱 I have expertise in __JavaScript, Nodejs, Express Js, Nest Js, MongoDB, Git, and Github__.
 - 😊 I’m looking for help with __entry-level opportunities or Junior, and open source project__.
 - 💼 Job interests: Software Engineer, Backend Engineer (Junior level).
-- 📫 You can [view my resume](https://docs.google.com/document/d/1PuC1vW_W1Dho_CDo8jSOK899TLc87BsJ1lnxvslITWI/edit#heading=h.gjdgxs) and contact me by emailing **mailtokingsleyakaehomen@gmail.com@gmail.com**.  
-<br> 📞 **+234-813-696-5662**
+- 📫 You can [view my resume](https://docs.google.com/document/d/1PuC1vW_W1Dho_CDo8jSOK899TLc87BsJ1lnxvslITWI/edit#heading=h.gjdgxs) and contact me by emailing **mailtokingsleyakaehomen@gmail.com**.  
+<br> 📞 **+234-803-4716-397**
   
 <br>
   
